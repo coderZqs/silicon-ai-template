@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "siliconflow",
+      "source": "@siliconflow/v1.0#29vfzflxsmg4gj",
+      "integrity": "sha512-6Gdeqz5QxbofmPB7VIIUXf1x2G6EU/k6pC1dJDS0c8de3jbx/8awf3S+zyy9dM3jXt4Lw/tcrWIsjCAEg3uywA==",
+      "installerVersion": "6.1.1"
+    }
+  ]
+}
